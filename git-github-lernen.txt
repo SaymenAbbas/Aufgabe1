@@ -1,0 +1,31 @@
+## Was ich über Git und Github gelernt habe
+
+- Git ist eine sogennante distributed Version Control System (VCS) was wie es im namen schon steht ein System ist um verschiedene Versionen
+  deines Coding Projekts zu verwalten. Es macht eine Gruppenarbeit an einem Projekt viel einfacher da du gemeinsam mit anderen Leuten am selben
+  Projekt gleichzeitig arbeiten kannst und auch zu verschiedenen Versionen des Projekts wechseln kannst um z.B. Bugs rückgängig zu machen.
+
+- Github ist einfach das einfach zu benutzen interface von Git. Dies könnte für einen Anfänger einfacher zu lernen sein da man die Elemente
+  sieht die essentiel zum zusammenarbeiten sind jedoch sollte man sich nicht darauf festlegen und git vernachlässigen.
+
+- Die Repositories sind der Ort wo dein Projekt wirklich stattfindet. Hier hast du all deine verschidenen Projekt dateien und auch die Historie
+  was geändert wurde.
+
+- Cloning erlaubt dir eine lokale Datei zu kriegen von einem Github Repository.
+
+- Commits und Pushing erlaubt dir erstmal Änderung zu speichern und diese dann zu Github zu "schicken".
+
+- Branches ist ein sogennanter "Zweig" deines Projekts der seperat von dem main Zweig stattfindet in dem du verschidene Features oder bugs
+  fixen kannst. Dieser zweig beeinflusst nicht den main zweig.
+
+- Forks ist ein Weg um eine Repository zu kopieren und gleichzeitig Änderung an einen anderen Projekt zu ergänzen.
+
+- Pull Requests ist eine methode um andere die mit dir an einem Projekt arbeiten mitzuteilen welche Änderung zu machen möchtest und außerdem
+  für ihr Feedback zu fragen.
+
+- Mit Issues kannst du Aufgaben, bugs oder verbesserung feststellen und anderen mitteilen welche Richtung du dein Projekt leitest.
+
+## Was ist mir noch Unklar?
+
+Mir fällt noch die Erfahrung mit anderen Leuten innerhalb eines Projektes. Ich verstehe die Theorie hinter diesen Features und ich kann sie
+auch ausführen jedoch muss es noch wirklich klick machen. Mir ist auch nicht ganz klar wie man am besten Fehler in Git behandelt oder wie man
+branches in einem Riesigen Projekt behandelt da diese sehr warscheinlich sehr komplex sind.
